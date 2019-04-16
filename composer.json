@@ -1,0 +1,13 @@
+{
+    "name": "nikolay/drupalup_utils",
+    "type": "drupal-module",
+    "authors": [
+        {
+            "name": "flesheater",
+            "email": "nikolay.r.borisov@gmail.com"
+        }
+    ],
+    "require": {
+        "nubs/random-name-generator": "^2.1"
+    }
+}
